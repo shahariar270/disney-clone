@@ -1,0 +1,125 @@
+@media (max-width: 600px) {
+  /* header section is start */
+  header {
+    width: fit-content;
+    object-fit: cover;
+  }
+  .banner-container {
+    width: 100%;
+    margin: auto;
+  }
+  .btn_section {
+    flex-direction: column;
+    margin: auto;
+  }
+  .btn_section button {
+    margin: 10px auto;
+  }
+  .image img {
+    width: 90%;
+  }
+
+  /* header section is end */
+
+  /* middle section is start */
+  .middle-container nav ul li {
+    font-size: 13px;
+  }
+  .total-images {
+    width: 90%;
+    margin: auto;
+  }
+  .total-images img {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    height: 150px;
+  }
+  .view-plan-container h3 {
+    font-size: 33px;
+    line-height: 48px;
+  }
+  .view-plan-container span {
+    font-size: 15px;
+    line-height: 26px;
+    margin-bottom: 20px;
+  }
+  .bottom-card{
+    margin-top: 20px;
+  flex: auto;
+  }
+  .plan-text ul {
+    width: 232px;
+  }
+  /* middle section is start */
+
+  /* plan bandle section is start */
+
+  
+ .duo-card{
+  width: 75%;
+  margin: auto;
+  height: auto;
+  margin-bottom: 20px;
+ }
+ /* plan bnadle section is start */
+  
+/*FAQ section is start */
+.section span{
+  font-size: 12px;
+}
+.section img{
+  height: 17px;
+  width: 16px;
+
+}
+.headding h1{
+  font-size: 15px;
+}
+  /*FAQ section is start */
+
+  /* footer section is start */
+  .footer-img img{
+    width: 100px;
+  }
+  .footer-content ul {
+    gap: 5px;
+  }
+  .footer-content ul li {
+    font-size: 8px;
+  }
+
+  /* footer section is start */
+
+  /* photo section start*/
+  .photo-list{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+.photo-container{
+  width: 90%;
+  margin: auto;
+}
+.photo-container img{
+  width: 100%;
+}
+.list-container{
+  width: 100%;
+  
+}
+.list-container h1{
+  font-size: 20px;
+  margin: 20px;
+        text-align: center;
+  
+}
+.list-container ul{
+  width: 90%;
+  margin: auto;
+}
+.list-container ul li{
+  font-size: 13px;
+}
+/* photo   section end */
+}
